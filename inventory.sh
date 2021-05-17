@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Author: Serge
+# Author: Watercress
 
 if [ $? -eq 0 ]
 then 
